@@ -3,3 +3,22 @@
 .DS_Store
 .DS_Store?
 
+# Dynare / MATLAB generated files #
+###################################
+# Dynare-generated package folders (e.g., +my_model from my_model.mod)
+**/+*/
+
+# Dynare output directories and bookkeeping
+**/Output/
+**/graphs/
+**/model/
+**/checksum
+
+# Dynare-generated output files
+**/*_results.mat
+**/*.log
+**/*.jnl
+
+# MATLAB editor backup files
+**/*.asv
+
