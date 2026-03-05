@@ -1,4 +1,4 @@
-# Notes on Benigno and Eggertsson (2025)
+# Benigno and Eggertsson (2025)
 
 This folder contains Dynare replication files for the model in:
 
